@@ -1,9 +1,8 @@
 /*-------------------------------------------------------------------- 
- * EasyCaptions: A system for easily adding captions to online videos
- * Version 0.1
- * Copyright (c) June 2010 Philip Hutchison http://pipwerks.com
- * Article: http://pipwerks.com/
- * MIT license (http://creativecommons.org/licenses/MIT/)
+EasyCaptions v0.1.20111123
+https://github.com/pipwerks/EasyCaptions
+Copyright (c) Philip Hutchison
+MIT-style license: http://pipwerks.mit-license.org/
 --------------------------------------------------------------------*/
 
 var EasyCaptions = function (options){
